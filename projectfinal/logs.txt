@@ -1,0 +1,12 @@
+
+2021-11-01:10:16:10Search for a job:   1
+
+2021-11-01:10:16:36Search for an employee:   1
+
+2021-11-02:07:43:38Search for a job:   1
+
+2021-11-02:07:49:00Search for a job:   1
+
+2021-11-02:07:52:47Search for an employee:   1
+
+2021-11-02:08:14:07Search for a job:   1
